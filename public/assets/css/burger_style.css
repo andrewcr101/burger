@@ -1,0 +1,12 @@
+body {
+    max-width: 960px;
+}
+
+img {
+    height: 200px;
+    width: 200px;    
+}
+
+#bgr_name {
+    padding-right: 20px;
+}
